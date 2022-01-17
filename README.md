@@ -25,18 +25,31 @@ Python and Visual Studio Code were used to analyse the election results CSV file
  
  
  The Initial analysis shows that:
+ 
     1. 369,711 votes were cast in the election.
+    
     2. The candidates were
-          Charles Casper Stockham, 
-          Diana DeGette and 
-          Raymon Anthony Doane.
+    
+           Charles Casper Stockham,
+          
+           Diana DeGette and 
+          
+           Raymon Anthony Doane.
+          
     3. Charles received 85,213 votes,
+    
        Diana received   272,892 votes, 
+       
        Raymon received  11,606 votes.
+       
     4. Charles won 23.0% of the votes,
+    
        Diana won   73.8% of the votes and 
+       
        Raymon won  3.1% of the votes.
+       
     5. Diana DeGette won the election.
+    
     6. Denver had the largest voter turnout.
   
   Election audit results were seen in the image as follows:  

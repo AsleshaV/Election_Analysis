@@ -77,6 +77,8 @@ Diana DeGette with 272,892 votes, which was 73.8% of the total votes.
 
 ## Election Audit Summary:
 In summary, this script can be customized to serve as a guide for future election performance across other counties or even states, with some modifications.
+
   1.Modify the code to see county wise which candidate is the winner ; we can use this data to analyse the budget for future election campaigns. I would suggest to Use a vote percentage for each county voted for each candidate and using an if-else statement to print the results.This will print the candidate name, county name, and vote percent for each county.
+  
   2.we can modify the code and write it to loop through the ballot IDs to ensure that there are no duplicates due to manual errors.
 we can modify the script to apply to states instead of counties in federal elections which can be a valuable resource for data analysing.
